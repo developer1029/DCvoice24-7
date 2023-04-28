@@ -45,12 +45,12 @@ Then, replace `your_bot_token_here` in the `.env` file with your bot's token.
 
 
 ```
-TOKEN = "your_bot_token_here"
+BOT_TOKEN=your_bot_token_here
 ```
 You can customize the bot prefix by changing the PREFIX variable:
 
 ```
-PREFIX = '..'
+PREFIX=..
 ```
 
 ```
