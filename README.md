@@ -59,9 +59,9 @@ python bot.py
 
 ## Commands
 
-- join - Makes the bot join the user's voice channel
-- ping - Returns the bot's latency in milliseconds
-- mc <voice_channel_id> - Shows the number of human and bot users in the specified voice channel
+- `join` - Makes the bot join the user's voice channel
+- `ping` - Returns the bot's latency in milliseconds
+- `mc <voice_channel_id>` - Shows the number of human and bot users in the specified voice channel
 
 ## Acknowledgments
 - [Discord.py Documentation](https://discordpy.readthedocs.io/en/stable/)
