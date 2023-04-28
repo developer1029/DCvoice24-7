@@ -41,11 +41,11 @@ pip install -r requirements.txt
 ```
 To run the bot, you need to create a Discord bot and obtain a token. You can follow the instructions on Discord Developer Portal to create a bot and get its token.
 
-Then, replace TOKEN in the code with your bot's token.
+Then, replace `your_bot_token_here` in the `.env` file with your bot's token.
 
 
 ```
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "your_bot_token_here"
 ```
 You can customize the bot prefix by changing the PREFIX variable:
 
